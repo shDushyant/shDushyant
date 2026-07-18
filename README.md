@@ -23,7 +23,7 @@ srcset="assets/light.svg">
 
 🌱 Currently learning LLMs, Deep Learning, and Full Stack Development
 
-📫 Email: your@email.com
+📫 Email: dushyant000779@gmail.com
 ## 🛠 Skills
 
 Python
