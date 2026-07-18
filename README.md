@@ -13,3 +13,54 @@ srcset="assets/light.svg">
 </picture>
 
 </p>
+# Hi 👋 I'm Dushyant Sharma
+
+🎓 B.Tech ECE @ NIT Delhi
+
+🤖 AI Engineering
+
+💻 MERN Stack Developer
+
+🌱 Currently learning LLMs, Deep Learning, and Full Stack Development
+
+📫 Email: your@email.com
+## 🛠 Skills
+
+Python
+
+C++
+
+JavaScript
+
+React
+
+Node.js
+
+MongoDB
+
+Express
+
+TensorFlow
+
+PyTorch
+
+FastAPI
+
+Docker
+
+Git
+
+Linux
+
+SQL
+
+Celonis
+## 🚀 Projects
+
+⭐ GreenTravel AI
+
+⭐ Celonis Sustainability Dashboard
+
+⭐ AI Chatbot
+
+⭐ Portfolio Website
