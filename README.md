@@ -146,14 +146,14 @@ Interactive Process Mining dashboard for analysing business travel emissions and
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals
 
 - 🚀 Crack a top SDE / AI Internship
 - 🤖 Build production-ready AI applications
 - 🧠 Master Deep Learning, LLMs & AI Agents
 - 🌐 Become a strong AI + Full Stack Developer
 - 💯 Solve 500+ LeetCode problems
-- 🌟 Contribute to Open Source
+
 
 ---
 
