@@ -17,7 +17,7 @@ srcset="assets/light.svg">
 
 # 👋 Hi, I'm Dushyant Sharma
 
-### AI Engineer • Full Stack Developer • Machine Learning Enthusiast
+### AI Engineer • MERN Stack Developer • Machine Learning Enthusiast
 
 🎓 **B.Tech Electronics & Communication Engineering** • NIT Delhi
 
@@ -112,7 +112,7 @@ Interactive Process Mining dashboard for analysing business travel emissions and
 
 ---
 
-# 🏆 Coding Profiles
+# 🏆 Social Profiles
 
 <div align="center">
 
